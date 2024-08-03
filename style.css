@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    width: 1400pxpx;
+    height: 796px;
+    border: 3px dotted black;
+}
